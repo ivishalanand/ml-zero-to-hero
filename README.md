@@ -1,4 +1,4 @@
-# ML Zero to Hero
+# Vishal - ML Zero to Hero
 
 A free, hand-picked learning path that takes you from zero to building your own GPT, one topic at a time.
 
